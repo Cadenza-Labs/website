@@ -9,7 +9,7 @@ The goal of our group is to do research which contributes to solving AI alignmen
 
 - [Toward A Mathematical Framework for Computation in Superposition](https://www.lesswrong.com/posts/2roZtSr5TGmLjXMnT/toward-a-mathematical-framework-for-computation-in)
 - [Possible ways to expand on "Discovering Latent Knowledge in Language Models Without Supervision"](https://www.lesswrong.com/posts/bFwigCDMC5ishLz7X/rfc-possible-ways-to-expand-on-discovering-latent-knowledge):  Our initial post, with ideas of how to expand the paper
-- [GitHub - EleutherAI/elk](https://github.com/EleutherAI/elk): Keeping language models honest by directly eliciting knowledge encoded in their activations. Building on "Discovering latent knowledge in language models without supervision" (Burns et al. 2022). We are main contributors of the elk library. This is an open-source reimplementation of the codebase with added features (parallelization, HuggingFace integration etc.), which we used to replicate the original paper’s results and to run experiments.
+- [GitHub - EleutherAI/ccs](https://github.com/EleutherAI/ccs): Keeping language models honest by directly eliciting knowledge encoded in their activations. Building on "Discovering latent knowledge in language models without supervision" (Burns et al. 2022). We are main contributors of the elk library. This is an open-source reimplementation of the codebase with added features (parallelization, HuggingFace integration etc.), which we used to replicate the original paper’s results and to run experiments.
 - [Searching for a model's concepts by their shape – a theoretical framework](https://www.lesswrong.com/posts/Go5ELsHAyw7QrArQ6/searching-for-a-model-s-concepts-by-their-shape-a): Our suggested theoretical framework expanding the method to concepts beyond truth
 - [Decomposing Activations into features](https://drive.google.com/file/d/1jD0VpCF1fLXyNwMMM3skbYAgoR2qQOu5/).
 - [Research YouTube channel](https://www.youtube.com/watch?v=IGdk0JsvIkY) 
@@ -32,6 +32,7 @@ Our current main focus also has to do with finding features, but it is relativel
 - Developing tools and creating experiments to evaluate whether CCS (and other ELK solutions) are indeed discovering a model’s beliefs, as opposed to e.g. what a particular simulacrum believes, or what the most likely completion would be if one just looked at the single sentence in isolation, or what humans generally believe, or what is true according to humanity’s best scientific understanding.
 - Looking for other concepts by looking for features satisfying corresponding constraints. There are concepts which are either simply difficult to provide any labels for (for instance, the preferences of a model, or its utility function, or what an RL agent with just a policy network thinks the value of a position is), or plausibly labelable in simple cases but not in cases which would distinguish them from other concepts the model would plausibly represent but which we would not want to detect (for instance, for an intelligent model, we know its likely beliefs about simple domains because we know the truth about the domain, but the labels we can provide will fail to disambiguate the model’s beliefs about the topic from its beliefs about human beliefs about the topic).
 
+<!-- 
 ### 3. The fundamentals of LM cognition (only half-interpretability)
 Finally, we would like to more generally study LM cognition, both to guide our LM interpretability work, as well as to understand advanced cognition better in general and generally improve our understanding of how the future of artificial intelligence will play out (e.g. timelines, or whether language models will scale to AGI). Here are some example questions we would like to better understand:
 
@@ -40,5 +41,4 @@ Finally, we would like to more generally study LM cognition, both to guide our L
 - Are there examples of the 'same plan' being used to predict multiple tokens in sequence? Is RLHF needed for interesting examples of this to occur? For instance, do we ever see something like the model computing the rhyme pattern for a poem at token 3 and layer 5, which is then referenced for all further tokens in the poem (at layer 6 in a future token stack, let us say)?
 
 To study this, we want to combine conceptual work that aims to clarify these questions with accompanying experiments: both in model psychology, including model developmental psychology (that is, behavioral experiments, including those that incorporate certain training/fine-tuning regimes), as well as in model neuroscience (that is, interpretability experiments, for instance involving probing and searching for particular circuits).
-
-
+-->
