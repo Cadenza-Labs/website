@@ -24,4 +24,5 @@ In his spare time, Jonathan likes building mechanical keyboards, doing weekend p
 ## External collaborators
 - Georgios Kaklamanos
 - Clément Dumas
+- Grégoire Dhimoïla
 - Robert Klassert
