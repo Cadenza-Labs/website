@@ -21,7 +21,7 @@ Jonathan started actively working in the AI Alignment field in June 2022 by comp
 At Cadenza Labs, Jonathan is working as a research engineer, focusing on expanding the [Discovering Latent Knowledge paper by Burns et al.](https://arxiv.org/abs/2212.03827) in novel directions. The work can be found at this GitHub repo.
 In his spare time, Jonathan likes building mechanical keyboards, doing weekend projects, playing video games, reading science fiction, and playing Person Do Thing.
 
-## External collaborators
+## Collaborators
 - Georgios Kaklamanos
 - Clément Dumas
 - Grégoire Dhimoïla
