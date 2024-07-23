@@ -14,6 +14,8 @@ Walter was in the MATS Winter 2023 Cohort under the mentorship of John Wentworth
 ### Collaborators
 - Clément Dumas
 - Grégoire Dhimoïla
+- Sharan Maiya
+- Kieron Kretschmar
 - Robert Klassert
 - Jonathan Ng
 - Georgios Kaklamanos
