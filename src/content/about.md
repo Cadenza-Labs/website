@@ -3,6 +3,9 @@ slug: "/about"
 title: "About us"
 ---
 
+### Kaarel Hänni
+Kaarel was in the MATS Winter 2023 Cohort under the mentorship of John Wentworth. He is working on the interpretability agenda outlined in [“Searching for a model's concepts by their shape – a theoretical framework"](https://www.lesswrong.com/posts/Go5ELsHAyw7QrArQ6) as a theorist at Cadenza Labs. Kaarel has undergraduate degrees in mathematics and in linguistics & philosophy from MIT and is currently on leave from graduate school in mathematics at Caltech.
+
 ### Walter Laurito
 [LinkedIn](https://www.linkedin.com/in/walter-laurito-951565144/)
 
@@ -14,4 +17,3 @@ Walter was in the MATS Winter 2023 Cohort under the mentorship of John Wentworth
 - Robert Klassert
 - Jonathan Ng
 - Georgios Kaklamanos
-- Kaarel Hänni
