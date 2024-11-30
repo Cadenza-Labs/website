@@ -26,11 +26,9 @@ Grégoire's work at Cadenza Labs primarily focused on the project "Cluster-Norm 
 Kieron is currently finishing his thesis for the M.Sc. in AI at the University of Amsterdam in collaboration with Cadenza. In his research, he investigates ways in which supervised and unsupervised probes can fail to predict truthfulness under distributional shifts, with a focus on quantifying and methods to mitigate these failure modes. During his studies he has set up and organized an AI Safety reading group, and has participated in the ML4Good and Talos Fellowships. Before pivoting his career towards technical AI Safety research, he has co-founded two startups and obtained a B.Sc. in Technomathematics.
 
 
-# Collaborators
+## Other Collaborators
 
 - Clément Dumas
-- Robert Klassert
-- Jonathan Ng
-- Georgios Kaklamanos
 - Kaarel Hänni
+- Jonathan Ng
 
