@@ -3,12 +3,11 @@ slug: "/research"
 title: "Research"
 ---
 
-The goal of our group is to do research which contributes to solving AI alignment. Broadly, we aim to work on whatever technical alignment projects have the highest expected value. Our current best ideas for research directions to pursue seem to be in interpretability. Interpretability is broad; our research direction is less broad. **Our specific goal is to research and build robust lie detectors for LLMs.** <!-- More about our research agenda can be found in the [Research Agenda](#research-agenda) section below. --> 
-
+The goal of our group is to do research which contributes to solving AI alignment. Broadly, we aim to work on whatever technical alignment projects have the highest expected value. Our current best ideas for research directions to pursue seem to be in interpretability. Interpretability is broad; our research direction is less broad. **Our specific goal is to research, benchmark and develop robust lie detectors for LLMs.** 
 
 ## Latest Work
 
-### [Cluster-norm for Unsupervised Probing of Knowledge](https://arxiv.org/abs/2407.18712)
+### [Cluster-Norm for Unsupervised Probing of Knowledge](https://arxiv.org/abs/2407.18712)
 This method addresses challenges in identifying relevant knowledge features amidst distracting features in model activations. By clustering and normalizing activation patterns before applying probing techniques, the approach enhances the accuracy of unsupervised probes in extracting intended knowledge. While not addressing all limitations of current methods, cluster normalization shows promise in making unsupervised probing more robust and reliable for understanding the knowledge encoded in language models.
 
 This paper was accepted at the MechInterp workshop at ICML 2024 and the EMNLP 2024 conference. 
@@ -24,15 +23,3 @@ This work was done in collaboration with [ACS](https://acsresearch.org/about). W
 - [Toward A Mathematical Framework for Computation in Superposition](https://www.lesswrong.com/posts/2roZtSr5TGmLjXMnT/toward-a-mathematical-framework-for-computation-in)
 - [Decomposing Activations into features](https://drive.google.com/file/d/1jD0VpCF1fLXyNwMMM3skbYAgoR2qQOu5/).
 - [Research YouTube channel](https://www.youtube.com/watch?v=IGdk0JsvIkY) 
-
-
-<!--
-## Research Agenda
-
-### 2. Supervised and Unsupervised Methods For Fi
-Our current main focus also has to do with finding features, but it is relatively agnostic towards each of the above theoretical questions. Our current main projects aim to develop methods to find directions in activation space that capture individual important concepts. In particular, we are primarily investigating the use of unsupervised methods for finding concepts for which providing supervised labels would be problematic. The hope is that, even if unsupervised, this can be much more tractable than finding all the features, both because we can leverage details about particular concepts when doing this (for instance, search for features satisfying constraints these particular concepts satisfy), and also because we need to make fewer contentious assumptions like the ones from the previous item. In particular, we are looking into the following directions:
-
-- Developing technical improvements on CCS for detecting what a model believes. This includes searching for a feature that satisfies additional constraints, considering ensembling methods for getting more signal out of the data, and looking into ways to remove undesirable truth-shaped properties from activations.
-- Developing tools and creating experiments to evaluate whether CCS (and other ELK solutions) are indeed discovering a model’s beliefs, as opposed to e.g. what a particular simulacrum believes, or what the most likely completion would be if one just looked at the single sentence in isolation, or what humans generally believe, or what is true according to humanity’s best scientific understanding.
-- Looking for other concepts by looking for features satisfying corresponding constraints. There are concepts which are either simply difficult to provide any labels for (for instance, the preferences of a model, or its utility function, or what an RL agent with just a policy network thinks the value of a position is), or plausibly labelable in simple cases but not in cases which would distinguish them from other concepts the model would plausibly represent but which we would not want to detect (for instance, for an intelligent model, we know its likely beliefs about simple domains because we know the truth about the domain, but the labels we can provide will fail to disambiguate the model’s beliefs about the topic from its beliefs about human beliefs about the topic).
---> 
