@@ -34,3 +34,7 @@ Grégoire's work at Cadenza Labs primarily focused on the project "Cluster-Norm 
 - Clément Dumas
 - Kaarel Hänni
 
+# Advisors
+- [Erik Jenner](https://ejenner.com), AI Safety Researcher
+- [Alex Mallen](https://www.linkedin.com/in/alex-mallen-815b01176/), AI Safety Researcher
+
