@@ -3,7 +3,7 @@ slug: "/about"
 title: ""
 ---
 
-# Core Team
+# Team
 
 ## Walter Laurito
 [LinkedIn](https://www.linkedin.com/in/walter-laurito-951565144/)
