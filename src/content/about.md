@@ -29,15 +29,14 @@ Jim Chapman has worked in leadership roles for three non-governmental organizati
 
 Grégoire's work at Cadenza Labs primarily focused on the project "Cluster-Norm for Unsupervised Probing of Knowledge." His main contribution was developing contrast-pair clustering techniques for CCS-style methods. This research was presented at the ICML MechInterp workshop. In addition to this project, Grégoire has been investigating how structures emerge in the computational graphs of neural networks. Currently, Grégoire is pursuing a Master's degree in Mathematics and Computer Science at ENS Paris-Saclay. His academic interests are centered on mechanistic interpretability and the analysis of neural networks. 
 
-## Other Collaborators
-
-- Clément Dumas
-- Kaarel Hänni
-
-# Advisors
+##  Advisors
 
 We thank our advisors for their regular guidance on our research direction and other topics:
 
 - [Erik Jenner](https://ejenner.com), AI Safety Researcher
 - [Alex Mallen](https://www.linkedin.com/in/alex-mallen-815b01176/), AI Safety Researcher
 
+## Other Collaborators
+
+- Clément Dumas
+- Kaarel Hänni
