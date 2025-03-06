@@ -18,7 +18,7 @@ Sharan first joined Cadenza Labs to work with Walter on Cluster-Normalization fo
 ## Kieron Kretschmar
 [LinkedIn](https://www.linkedin.com/in/kieron-kretschmar/)
 
-Kieron is currently finishing his thesis for the M.Sc. in AI at the University of Amsterdam in collaboration with Cadenza. In his research, he investigates ways in which supervised and unsupervised probes can fail to predict truthfulness under distributional shifts, with a focus on quantifying and methods to mitigate these failure modes. During his studies he has set up and organized an AI Safety reading group, and has participated in the ML4Good and Talos Fellowships. Before pivoting his career towards technical AI Safety research, he has co-founded two startups and obtained a B.Sc. in Technomathematics.
+Kieron joined Cadenza Labs while completing his M.Sc. at the University of Amsterdam, where he graduated cum laude. His thesis, written in collaboration with Walter Laurito, explores representations of truthfulness in language models. It analyzes how supervised and unsupervised probes can fail to predict truthfulness under distributional shifts, highlighting failure modes and potential mitigation strategies. During his studies he has set up and organized an AI Safety reading group, and has participated in the ML4Good and Talos Fellowships. Before pivoting his career towards technical AI Safety research, he has co-founded two startups.
 
 ## Jim Chapman
 [LinkedIn](https://www.linkedin.com/in/jim-chapman/)
