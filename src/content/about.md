@@ -20,7 +20,7 @@ Sharan first joined Cadenza Labs to work with Walter on Cluster-Normalization fo
 
 Kieron joined Cadenza Labs while completing his M.Sc. at the University of Amsterdam, where he graduated cum laude. His thesis, written in collaboration with Walter Laurito, explores representations of truthfulness in language models. It analyzes how supervised and unsupervised probes can fail to predict truthfulness under distributional shifts, highlighting failure modes and potential mitigation strategies. During his studies he has set up and organized an AI Safety reading group, and has participated in the ML4Good and Talos Fellowships. Before pivoting his career towards technical AI Safety research, he has co-founded two startups.
 
-## Jim Chapman
+## James Chapman
 [LinkedIn](https://www.linkedin.com/in/jim-chapman/)
 
 Jim Chapman has worked in leadership roles for three non-governmental organizations, serving as board vice president, policy analyst, and executive director. He co-managed a multi-million-dollar, multi-year academic research project and currently leads a consulting firm as managing principal. After becoming concerned about AI risks, and a year of learning and upskilling, Jim is joining Cadenza Labs to leverage his 25+ years of operational experience and leadership in non-profit, university, and for-profit consulting settings.
