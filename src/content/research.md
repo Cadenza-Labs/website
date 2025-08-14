@@ -3,7 +3,7 @@ slug: "/research"
 title: "Research"
 ---
 
-The goal of our group is to do research which contributes to solving AI alignment. Broadly, we aim to work on whatever technical alignment projects have the highest expected value. Our current best ideas for research directions to pursue seem to be in interpretability. Interpretability is broad; our research direction is less broad. **Our specific goal is to research, benchmark and develop robust lie detectors for LLMs.** 
+The goal of our group is to do research which contributes to solving AI alignment. **Our main goal is to research, benchmark and develop robust lie detectors for LLMs.** 
 
 ## Latest Work
 
