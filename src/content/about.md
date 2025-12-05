@@ -8,7 +8,7 @@ title: ""
 ## Walter Laurito
 [LinkedIn](https://www.linkedin.com/in/walter-laurito-951565144/)
 
-Walter was in the MATS Winter 2023 Cohort under the mentorship of John Wentworth. At Cadenza Labs, he splits his time between being a team lead and research. With other collaborators, his team created an [open-source library](https://github.com/EleutherAI/elk), where Walter is a main contributor. As part of [ASET](https://www.linkedin.com/posts/), he implemented benchmarks for the UK AI Security Institute and supervised others in their implementation. Before starting his PhD in ML, Walter was working as software engineer for a couple of years after graduating in CS.
+Walter was in the MATS Winter 2023 Cohort under the mentorship of John Wentworth. Walter is a dotoral researcher at [FZI](https://www.fzi.de/en) and PhD candidate at [KIT](https://www.kit.edu/english/index.php). At Cadenza Labs, he splits his time between being a team lead and research. With other collaborators, his team created an [open-source library](https://github.com/EleutherAI/elk), where Walter is a main contributor. As part of [ASET](https://www.linkedin.com/posts/), he implemented benchmarks for the UK AI Security Institute and supervised others in their implementation. Before starting his PhD in ML, Walter was working as software engineer for a couple of years after graduating in CS.
 
 ## Sharan Maiya
 [LinkedIn](https://www.linkedin.com/in/sharanmaiya?originalSubdomain=uk)
