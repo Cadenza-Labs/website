@@ -5,6 +5,11 @@ title: ""
 
 # Team
 
+## Walter Laurito
+[LinkedIn](https://www.linkedin.com/in/walter-laurito-951565144/)
+
+Walter was in the MATS Winter 2023 Cohort under the mentorship of John Wentworth. Walter is a doctoral researcher at [FZI](https://www.fzi.de/en) and PhD candidate at [KIT](https://www.kit.edu/english/index.php). As part of [ASET](https://www.linkedin.com/posts/), he implemented benchmarks for the UK AI Security Institute and supervised others in their implementation. Before starting his PhD in ML, Walter was working as software engineer for a couple of years after graduating in CS. For Cadenza Labs, he splits his time between being a team lead and research.
+
 ## Kieron Kretschmar
 [LinkedIn](https://www.linkedin.com/in/kieron-kretschmar/)
 
@@ -15,18 +20,13 @@ Kieron joined Cadenza Labs while completing his M.Sc. at the University of Amste
 
 Sharan first joined Cadenza Labs to work on Cluster-Normalization for Unsupervised Probing. He is a first-year PhD student at the Language Technology Lab at the University of Cambridge, where he works on interpretability and evals. Additionally, he is a MATS scholar under Evan Hubinger. Sharan has a background in statistics after studying at Imperial College and Edinburgh. 
 
-## Walter Laurito
-[LinkedIn](https://www.linkedin.com/in/walter-laurito-951565144/)
-
-Walter was in the MATS Winter 2023 Cohort under the mentorship of John Wentworth. Walter is a doctoral researcher at [FZI](https://www.fzi.de/en) and PhD candidate at [KIT](https://www.kit.edu/english/index.php). As part of [ASET](https://www.linkedin.com/posts/), he implemented benchmarks for the UK AI Security Institute and supervised others in their implementation. Before starting his PhD in ML, Walter was working as software engineer for a couple of years after graduating in CS. For Cadenza Labs, he splits his time between being a team lead and research.
-
-
 ##  Advisors
 
 We thank our advisors for their regular guidance on our research direction and other topics:
 
-- [Erik Jenner](https://ejenner.com), AI Safety Researcher
-- [Alex Mallen](https://www.linkedin.com/in/alex-mallen-815b01176/), AI Safety Researcher
+- [Alex Mallen](https://www.linkedin.com/in/alex-mallen-815b01176/), AI Safety Researcher at Redwood Research
+- [Chris Cundy](https://cundy.me/), AI Safety Researcher at FAR.AI
+- [Erik Jenner](https://ejenner.com), AI Safety Researcher at Deepmind
 
 ## Other Collaborators
 
