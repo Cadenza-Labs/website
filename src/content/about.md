@@ -8,7 +8,7 @@ title: ""
 ## Walter Laurito
 [LinkedIn](https://www.linkedin.com/in/walter-laurito-951565144/)
 
-Walter was in the MATS Winter 2023 Cohort under the mentorship of John Wentworth. Walter is a doctoral researcher at [FZI](https://www.fzi.de/en) and PhD candidate at [KIT](https://www.kit.edu/english/index.php). As part of [ASET](https://www.linkedin.com/posts/), he implemented benchmarks for the UK AI Security Institute and supervised others in their implementation. Before starting his PhD in ML, Walter was working as software engineer for a couple of years after graduating in CS. For Cadenza Labs, he splits his time between being a team lead and research.
+Walter was in the MATS Winter 2023 Cohort under the mentorship of John Wentworth. At Cadenza Labs, he splits his time between being a team lead and doing research. In the past, as part of ASET, he implemented benchmarks for the UK AI Security Institute and supervised others in their implementation. Before starting his PhD at [KIT](https://www.kit.edu/), Walter worked as a software engineer for a couple of years after graduating in CS. 
 
 ## Kieron Kretschmar
 [LinkedIn](https://www.linkedin.com/in/kieron-kretschmar/)
