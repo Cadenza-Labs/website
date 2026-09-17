@@ -21,7 +21,7 @@ Kieron joined Cadenza Labs while completing his M.Sc. at the University of Amste
 Sharan first joined Cadenza Labs to work on Cluster-Normalization for Unsupervised Probing. He is a first-year PhD student at the Language Technology Lab at the University of Cambridge, where he works on interpretability and evals. Additionally, he is a MATS scholar under Evan Hubinger. Sharan has a background in statistics after studying at Imperial College and Edinburgh. 
 
 ## Jord Nguyen
-First author of “Probing and Steering Evaluation Awareness in Language Models”, studying evaluation awareness with whitebox tools, as part of Pivotal Fellowship. Co-author of "18 Applications of Deception Probes", which proposed using probes to augment debate and monitoring. Finetuned model organisms as part of the lie detection competition Aletheia’s Quest. 
+First author of “Probing and Steering Evaluation Awareness in Language Models”, studying evaluation awareness with whitebox tools, as part of Pivotal Fellowship. Co-author of ["18 Applications of Deception Probes"](https://www.lesswrong.com/posts/7zhAwcBri7yupStKy/here-s-18-applications-of-deception-probes), which proposed using probes to augment debate and monitoring. Finetuned model organisms as part of the lie detection competition Aletheia’s Quest. 
 
 ##  Advisors
 
@@ -29,6 +29,7 @@ We thank our advisors for their regular guidance on our research direction and o
 
 - [Alex Mallen](https://www.linkedin.com/in/alex-mallen-815b01176/), AI Safety Researcher at Redwood Research
 - [Chris Cundy](https://cundy.me/), AI Safety Researcher at FAR.AI
+- [Lewis Smith](https://ejenner.com), AI Safety Researcher at Deepmind
 - [Erik Jenner](https://ejenner.com), AI Safety Researcher at Deepmind
 
 ## Other Collaborators
