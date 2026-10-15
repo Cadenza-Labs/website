@@ -322,14 +322,6 @@ p.lead {
   grid-template-columns: minmax(0, 1fr);
 }
 
-.callout {
-  margin: 1.5em 0;
-}
-
-.callout p {
-  margin: 0.3em 0;
-}
-
 @media (max-width: 480px) {
   p.lead {
     font-size: 1.3em;

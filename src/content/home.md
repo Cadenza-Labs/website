@@ -15,10 +15,9 @@ Our primary goal is to mitigate AI dishonesty to help frontier labs and regulato
 <article class="card"><span class="badge muted">03</span><h4>During deployment</h4><p>Detecting such actions during deployment can trigger safeguards like model interruptions or steering, as well as user and developer alerts which enable investigations into questionable model behavior and properties.</p></article>
 </div>
 
-<div class="card callout">
-<p>Beyond improving understanding of model behavior, we aim to provide tools and evidence for determining when a safety intervention by regulators or individuals within frontier labs is necessary.</p>
-<p class="callout-example">For example, if a lab maintains that black-box monitoring suffices for a particular use case while an evaluator argues that white-box access is needed, evidence on how well dishonesty detectors perform at each access level can help settle the question.</p>
-</div>
+Beyond improving understanding of model behavior, we aim to provide tools and evidence for determining when a safety intervention by regulators or individuals within frontier labs is necessary.
+
+For example, if a lab maintains that black-box monitoring suffices for a particular use case while an evaluator argues that white-box access is needed, evidence on how well dishonesty detectors perform at each access level can help settle the question.
 
 ## Our Four Pillars
 
