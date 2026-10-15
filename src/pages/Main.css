@@ -99,7 +99,7 @@ iframe {
 .paper-card p,
 .paper-card li,
 .card p {
-  font-size: 1.05em;
+  font-size: 1.3em;
   line-height: 1.6;
   max-width: none;
 }
@@ -359,4 +359,11 @@ p.lead {
   .team-grid {
     grid-template-columns: minmax(0, 1fr);
   }
+}
+
+.person .role {
+  display: block;
+  font-size: 0.95em;
+  color: #555;
+  margin-top: 0.15em;
 }
