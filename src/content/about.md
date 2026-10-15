@@ -30,5 +30,5 @@ First author of â€œProbing and Steering Evaluation Awareness in Language Modelsâ
 We thank our advisors for their regular guidance on our research direction and other topics:
 
 - [Chris Cundy](https://cundy.me/), AI Safety Researcher at FAR.AI
-- Lewis Smith, AI Safety Researcher at Google DeepMind
+- [Lewis Smith](https://lsgos.onl), AI Safety Researcher at Google DeepMind
 - [Alex Mallen](https://www.linkedin.com/in/alex-mallen-815b01176/), AI Safety Researcher at Redwood Research

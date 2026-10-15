@@ -3,7 +3,7 @@ slug: "/"
 title: ""
 ---
 
-## Building Robust Lie Detectors
+# Building Robust Lie Detectors
 
 We aim to reduce catastrophic risk from AI by publishing research and open tools to advance the field of AI honesty and dishonesty detection.
 
