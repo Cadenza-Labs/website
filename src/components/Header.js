@@ -10,7 +10,7 @@ import Button from '@mui/material/Button';
 import MenuItem from '@mui/material/MenuItem';
 import { Link } from "gatsby"
 
-const pages = ['Research', 'About', 'Contact'];
+const pages = ['Research', 'Roadmap', 'About', 'Contact'];
 
 
 function Header() {

@@ -33,9 +33,3 @@ We thank our advisors for their regular guidance on our research direction and o
 - [Chris Cundy](https://cundy.me/), AI Safety Researcher at FAR.AI
 - [Lewis Smith](https://ejenner.com), AI Safety Researcher at Deepmind
 - [Erik Jenner](https://ejenner.com), AI Safety Researcher at Deepmind
-
-## Other Collaborators
-
-- Clément Dumas
-- Kaarel Hänni
-- Grégoire Dhimoïla
