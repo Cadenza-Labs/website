@@ -38,9 +38,9 @@ We research, benchmark and develop robust lie detectors for LLMs. Our research p
 </article>
 <article class="card">
 <div class="badges"><span class="badge live">Ongoing</span><span class="badge muted">NeurIPS 2026 competition</span></div>
-<h3><a href="https://steerability.github.io">The Steerability Challenge</a></h3>
+<h3><a href="https://steerability.github.io/competition/">The Steerability Challenge</a></h3>
 <p>A NeurIPS competition for interventions that make models produce honest outputs, co-hosted with researchers from IBM and Tara Research since September 2026. We shape the rules and design for a fair and useful competition, and create model organisms. It is the second competition we co-host, after Aletheia's Quest.</p>
-<div class="links"><a class="btn" href="https://steerability.github.io">Website</a></div>
+<div class="links"><a class="btn" href="https://steerability.github.io/competition/">Website</a></div>
 </article>
 </div>
 
