@@ -19,6 +19,9 @@ We were scientific leads for Aletheia's Quest, an AI lie detection competition o
 
 We are currently finalizing the post-competition report. In the meantime, check out the [datasets and model organisms](https://huggingface.co/collections/aletheias-quest/aletheias-quest-datasets-and-model-organisms) we created for the competition.
 
+### [The Steerability Challenge: NeurIPS Honesty Steering Competition](https://steerability.github.io)
+We are teaming up with researchers from IBM and Tara Research to host a NeurIPS competition for interventions that make models produce honest outputs, which started in September 2026. We contribute by shaping the rules and design for a fair and useful competition, and by creating model organisms. This is the second competition we are co-hosting, after Aletheia's Quest.
+
 ### [Cluster-Norm for Unsupervised Probing of Knowledge](https://aclanthology.org/2024.emnlp-main.780/)
 This method addresses challenges in identifying relevant knowledge features amidst distracting features in model activations. By clustering and normalizing activation patterns before applying probing techniques, the approach enhances the accuracy of unsupervised probes in extracting intended knowledge. While not addressing all limitations of current methods, cluster normalization shows promise in making unsupervised probing more robust and reliable for understanding the knowledge encoded in language models.
 
