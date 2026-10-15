@@ -57,12 +57,8 @@ module.exports = {
       preconnect: [`https://fonts.googleapis.com`, `https://fonts.gstatic.com`],
       web: [
         {
-          name: `Lora`,
-          file: `https://fonts.googleapis.com/css2?family=Lora&display=swap`,
-        },
-        {
-          name: `Lora Bold`,
-          file: `https://fonts.googleapis.com/css2?family=Lora:wght@400;700&display=swap`,
+          name: `Merriweather`,
+          file: `https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,400;0,700;1,400&display=swap`,
         }
       ],
     },

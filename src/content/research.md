@@ -49,7 +49,7 @@ We research, benchmark and develop robust lie detectors for LLMs. Our research p
 <div class="badges"><span class="badge">EMNLP 2024</span><span class="badge muted">ICML 2024 MI Workshop</span></div>
 <h3><a href="https://aclanthology.org/2024.emnlp-main.780/">Cluster-Norm for Unsupervised Probing of Knowledge</a></h3>
 <p>Salient but unrelated features in a dataset can mislead unsupervised probes. Cluster-Norm clusters and normalizes the activations of contrast pairs before probing, minimizing the impact of such distractors without needing to know in advance what they are.</p>
-<p>In the example on the right, a random word ("banana" or "shed") is appended to each prompt. With standard normalization, the top principal component separates the random words. With cluster normalization, it separates the true and false statements instead.</p>
+<p>In the example shown, a random word ("banana" or "shed") is appended to each prompt. With standard normalization, the top principal component separates the random words. With cluster normalization, it separates the true and false statements instead.</p>
 <div class="links"><a class="btn" href="https://aclanthology.org/2024.emnlp-main.780/">Paper</a></div>
 </div>
 <figure class="card-figure">

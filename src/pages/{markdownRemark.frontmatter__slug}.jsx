@@ -6,6 +6,9 @@ import {ThemeProvider} from "@mui/material/styles";
 import "./Main.css"
 
 const theme = createTheme({
+  typography: {
+    fontFamily: '"Merriweather", serif',
+  },
   components: {
     MuiToolbar: {
       styleOverrides: {
