@@ -5,7 +5,7 @@ title: "Research"
 
 The goal of our group is to do research which contributes to AI Safety. **Our main goal is to research, benchmark and develop robust lie detectors for LLMs.** 
 
-Our research priorities are described in our [roadmap](/roadmap).
+Our research priorities are described in our [roadmap](/).
 
 ## Latest Work
 
